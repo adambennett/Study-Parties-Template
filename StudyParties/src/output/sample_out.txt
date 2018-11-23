@@ -1,0 +1,24 @@
+Test case 1.
+Average social awkwardness = 0.00
+Test case 2.
+Average social awkwardness = 0.00
+Test case 3.
+Average social awkwardness = 0.00
+
+Test case 4.
+Heuristic 1 hosts are 
+Average social awkwardness = 0.00
+Heuristic 2 hosts are 
+Average social awkwardness = 0.00
+My heuristic hosts are 
+Average social awkwardness = 0.00
+
+
+Test case 5.
+Heuristic 1 hosts are 
+Average social awkwardness = 0.00
+Heuristic 2 hosts are 
+Average social awkwardness = 0.00
+My heuristic hosts are 
+Average social awkwardness = 0.00
+
