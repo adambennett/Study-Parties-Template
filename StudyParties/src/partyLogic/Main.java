@@ -256,6 +256,7 @@ public class Main
 	    return bd.doubleValue();
 	}
 	
+	//Returns number of connections to passed vertex
 	public static Integer countNeighbors(SimpleGraph<Integer, DefaultWeightedEdge> graph, Integer vertex)
 	{
 		Integer numNeighbors = 0;
